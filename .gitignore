@@ -105,3 +105,4 @@ venv.bak/
 
 .DS_Store
 DBConfig.py
+User_email.xlsx
